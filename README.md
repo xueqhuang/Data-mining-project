@@ -1,1 +1,1 @@
-# boston-housing-price-prediction
+# Data mining project
